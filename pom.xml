@@ -11,7 +11,7 @@
     <dependency>
       <groupId>${groupId}</groupId>
       <artifactId>commons-jelly</artifactId>
-      <version>1.1-hudson-20120704-SNAPSHOT</version>
+      <version>1.1-hudson-20120704</version>
     </dependency>
     <dependency>
       <groupId>dom4j</groupId>
@@ -27,7 +27,7 @@
     <dependency>
       <groupId>${groupId}</groupId>
       <artifactId>commons-jelly-tags-junit</artifactId>
-      <version>1.0-hudson-20120704-SNAPSHOT</version>
+      <version>1.0-hudson-20120704</version>
       <scope>test</scope>
     </dependency>
     <dependency>
@@ -39,7 +39,7 @@
     <dependency>
       <groupId>${groupId}</groupId>
       <artifactId>commons-jelly-tags-xml</artifactId>
-      <version>1.1-hudson-20120704-SNAPSHOT</version>
+      <version>1.1-hudson-20120704</version>
       <scope>test</scope>
     </dependency>
     <dependency>
